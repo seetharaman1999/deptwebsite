@@ -1,0 +1,67 @@
+Staff Name
+
+:
+
+Ms. Shanmughapriya C
+
+Faculty ID
+
+:
+
+Designation
+
+:
+
+Assistant Professor
+
+Qualification
+
+:
+
+B.E, M.E.
+
+Teaching Experience
+
+:
+
+1 Year
+
+Area of specialization
+
+:
+
+Machine Learning
+
+Subjects handled
+
+:
+
+Problem Solving and Python Programming
+Programming in C
+Software Industrialization
+Advanced databases
+Books published
+
+:
+
+-
+Journals published
+
+:
+
+-
+Conference / workshop attended
+
+:
+
+-
+Patent details
+
+:
+
+-
+Funded project details
+
+:
+
+-

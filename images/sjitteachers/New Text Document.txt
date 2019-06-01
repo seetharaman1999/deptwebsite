@@ -1,0 +1,71 @@
+Staff Name
+
+:
+
+Dr. M.K.Kirubakaran
+
+Faculty ID
+
+:
+
+TIT37
+
+Designation
+
+:
+
+Associate Professor
+
+Qualification
+
+:
+
+B.Tech, M.E.,Ph.D
+
+Teaching Experience
+
+:
+
+13 Years
+
+Area of specialization
+
+:
+
+Wireless Sensor Networks
+
+Subjects handled
+
+:
+
+Electronic Commerce
+Software Engineering
+Computer Architecture
+Object Oriented Analysis and Design
+Embedded Systems
+Software project management
+Advance software engineering
+Software Agents
+Total quality management
+Books published
+
+:
+
+Journals published
+
+:
+
+Kirubakaran, M. K. and Sankarram, N. (2018), “IW-MAC: A invite and wait MAC protocol for power efficient wireless sensor networks”, Journal of Ambient Intelligence and Humanized Computing, ISSN: 1865-5137(Print), 1868-5145 (electronic), DOI.org/10.1007/s12652-017-0662-6, January 2018. Impact Factor 1.588 (Web of Science Journal-Science Citation Index).
+Kirubakaran, M. K. and Sankarram, N. (2012), “RR-MAC: Receiver Reservation MAC protocol with time-division for wireless sensor networks”, IOSR Journal of Electronics and Communication Engineering (IOSRJECE) ISSN: 2278-2834, ISBN No. : 2278-8735, Vol. 3, No.1, pp. 26-32S CImago Journal Rank (SJR Indicator):0.348 (Scopus Indexed) http://www.iosrjournals.org/iosr-jece/pages/v3i1.html
+Kirubakaran, M. K. and Sankarram, N. (2014), “Performance of a wireless Sensor Network MAC protocol with a short sleep interval”, Maxwell Science Publication, Vol. 6, pp. 952-958, ISSN: 2040-7459; e-ISSN: 2040-7467, SCImago Journal Rank (SJR Indicator): 0.22 (Scopus Indexed) http://www.maxwellsci. com/msproof.php?doi=rjaset.7.371
+Kirubakaran, M. K. and Sankarram, N., “A Self-Adaptive Duty Cycle Receiver Reservation MAC Protocol for Power Efficient Wireless Sensor Networks”, Indian Journal of Science and Technology, Vol.9, No. 40, ISSN (Print): 0974-6846, SCImago Journal Rank (SJR Indicator): 0.25 (Scopus Indexed) http://www.indjst.org/index.php/indjst/article/view/97088
+Kirubakaran, M. K. and Sankarram, N. (2013), “Regulated RRMAC protocol for Wireless Sensor Networks”, in Indian Journal of Computer Science and Engineering (IJCSE), ISSN: 0976-5166, Vol. 4, No. 5, (Google Scholar).
+Conference / workshop attended
+
+:
+
+Kirubakaran, M. K. and Sankarram, N. (2015), ‘split – forward RR-MAC protocol for energy efficient wireless sensor networks” in 2nd IEEE International Conference on Advanced Computing and communication Systems. (ICACCS 2015) Sri Eshwar College of Engineering. Jan”15 Technical cosponsors: IEEE.
+Patent details
+
+:
+

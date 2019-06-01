@@ -1,0 +1,90 @@
+Staff Name
+
+:
+
+Dr. Nikkath Bushra S
+
+Faculty ID
+
+:
+
+TIT46
+
+Designation
+
+:
+
+Associate Professor
+
+Qualification
+
+:
+
+M.E., Ph.D
+
+Teaching Experience
+
+:
+
+15 years
+
+Area of specialization
+
+:
+
+Cloud computing, Bigdata analytics
+
+Subjects handled
+
+:
+
+Problem solving using Python
+OOPs and Datastructures
+Operating System
+Java Programming
+Embedded Systems
+Computer Architecure
+System software
+Database management systems
+Professional Ethics
+Books published
+
+:
+
+Journals published
+
+:
+
+Nikkath Bushra, Dr.A.Chandra Sekar, “An Incremental Clustering Technique For Privacy Preservation Over Incremental Cloud Data”, International Review On Computers And Softwares(I.RE.CO.S), Vol.8,N.11,ISSN 1828-6003, November 2013.
+S.Nikkath Bushra, Dr.A.Chandra Sekar,,” An Efficient Incremental Clustering Method For Incremental Cloud Data”,International Journal Of Advanced In Computer Science And Software Engineering .Vol.4, Issue 3,March 2014.
+S.Nikkath Bushra, Dr.A.Chandra Sekar,” Descend Traversal Prioritization And Ascend Traversal Abstraction Based Data Anonymization Over Big Data”, International Journal Of Applied Engineering Research Issn 0973-4562 Volume 10, Number 2 (2015) Pp. 2979-2994.
+S.Nikkath Bushra, Dr.A.Chandra Sekar, “ Privacy Preservation On Big Data Using PK-Anonymization “, International Journal of Innovative Research In Computer And Communication Engineering, vol.3 Issue 11, November 2015.
+Conference / workshop attended
+
+:
+
+workshop attended
+
+Participated in national workshop on cyber security on 19th and 20th Jan 2011 at RMK Engineering college ,Chennai.
+Participated in workshop “Big data analysis with hadoop & mongo DB” held on 17th sep 2016 at St.Joseph’s College of Engineering,Chennai.
+Attended workshop on “principles and practices of knowledge discovery in database” held on 14th and 15th sep 2012 at Anna university, Chennai
+Attended National workshop on “Recent advancements in artificial intelligence and machine learning – a special focus on oncology” held on 14th and 15th Nov 2018 at SA Engg college Chennai.
+Participated workshop on “Emerging trends in nanotechnology research –ETNR-2011” on 20th - 21st July 2011 at Jeppiaar Engg College, Chennai.
+Participated in Faculty Development Program on “Emdedded System Design using ARM Cortex-M4 TM4C123G Starter Kit” on 20th - 22nd Jan 2016 at St. Joseph’s Institute of Technology, Chennai.
+
+Conference
+
+International Conference on Recent Trends in science and management- ICRTSM -2018 ,titled “Privacy preservation for streaming of big data using dynamically anonymized data shuffling” on 23th to 24 th November ,2018 at Bharath Institute Of Higher Education and Research ,Chennai.
+2nd Internationl conference on recent trends in engineering and technology itled ”Online blood bank application using UPS on 6th may 2017 at St. Joseph’s Institute Of Technology, Chennai.
+International conference on Innovative and emerging trends in engineering and technology(ICIETET ’16) Titled “Anonymization based privacy preservation for streaming of big data using DADS and won best paper award held on 7th may 2016 at Panimalar Institute of Technology,Chennai.
+Attended IEEE-EDS sponsored International Conference on Nanoelectronics [ICONE-2011) On 24th to 26th Feb 2011 at Muthayammal Engineering College,Rasipuram, Salem.
+Attended National level conference Nannotechnobia’11 held on Feb 12th 2011 at St. Joseph’s College, Chennai.
+Presented paper titled “privacy preservation on bigdata using PK-Anonymization “ in National conference on innovative and emerging trends in engineering and technology and won best paper award at Panimalar Institute of Technology,Chennai.
+Patent details
+
+:
+
+Funded project details
+
+:
+
